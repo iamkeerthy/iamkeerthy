@@ -40,9 +40,8 @@
 
 
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=iamkeerthy&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<b> Show some ❤️ by starring some of the repositories!.</p>
 
 
 
