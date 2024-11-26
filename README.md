@@ -26,16 +26,14 @@
 
 
 
-## GSSOC(24) Badges 🪶:
+# 📊 GitHub Stats:
 
-<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=Hemu21">
-<img src="./assets/postman.png" width="85px" height="85px" />
-  <img src="./assets/1.png" width="85px" height="85px" />
-  <img src="./assets/2.png" width="85px" height="85px" />
-  <img src="./assets/3.png" width="85px" height="85px" />
-  <img src="./assets/4.png" width="85px" height="85px" />
-  <img src="./assets/5.png" width="85px" height="85px" />
-  <img src="./assets/6.png" width="85px" height="85px" />
-  <img src="./assets/7.png" width="85px" height="85px" />
-  <img src="./assets/8.png" width="85px" height="85px" /></a>
-</div>
+![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) <br/>
+<a href="https://github.com/Hemu21">
+![](https://github-readme-stats.vercel.app/api?username=Hemu21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemu21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hemu21&theme=blue-green&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemu21&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hemu21&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hemu21&theme=blue_green&utcOffset=8)
+<br/>
