@@ -5,8 +5,7 @@ A passionate Full Stack Developer from Sri Lanka.
 
 - 🌱 I’m currently learning Full Stack Development.
 - 💬 Ask me about PHP, Java (Spring Boot), Web Technologies.
-- 📫 How to reach me: dunsankeerthy2000@gmail.com.
-- ⚡ Fun fact: I love working on event management projects.
+
 
 ---
 
