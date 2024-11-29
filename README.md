@@ -37,7 +37,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamkeerthy&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamkeerthy&theme=blue_green&utcOffset=8)
 
-
 <br/>
 
 
