@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **MERN stack, React Native**
 
-- 📫 How to reach me **dunsankeerthy2000@gmail.com**
+- 📫 How to reach me **iamkeerthyy@gmail.com**
 
 
 ## 💻 Tech Stack:
